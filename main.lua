@@ -1,6 +1,3 @@
--- Candy AutoFarm protected payload
--- The original source is encoded and reconstructed only at runtime.
-
 local K=173
 local D={
     25,28,16,14,25,205,253,25,14,38,18,31,32,205,234,205,20,14,26,18,231,244,18,33,0,18,31,35,22,16,18,213,
